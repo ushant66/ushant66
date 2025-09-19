@@ -1,46 +1,35 @@
-# Hi 👋, I'm Ushant Somkuwar  
-### Aspiring Data Scientist & Analytics Enthusiast | Python | Machine Learning | Power BI  
+# 👋 Hi, I'm Uahant Somkuwar
+
+Hi there! I'm Uahant, an aspiring **Data Scientist | Data Analyst**.  
+I enjoy working with data, building ML models, and creating dashboards using **Python, SQL, Excel, and Power BI**.  
 
 ---
 
-## 🚀 About Me  
-- 🎓 Passionate about **Data Science & Business Analytics**  
-- 🌱 Currently learning **Python, SQL, Machine Learning, Power BI, Data Visualization**  
-- 💡 Love exploring data, finding insights, and solving business problems  
-- 💻 Check out all my work 👉 [**My GitHub Repositories**](https://github.com/ushant66)  
-- 📫 Reach me at: **ushant.somkuwar@example.com**  
+## 📚 Projects & Guides
+In my portfolio, you can find my [projects](https://github.com/ushant66?tab=repositories) and guides on data analytics and machine learning.
 
 ---
 
-## 🛠️ Skills & Tools  
-- **Programming:** Python, SQL  
-- **Data Analysis:** Pandas, Numpy, Excel  
-- **Visualization:** Power BI, Matplotlib, Seaborn  
-- **Machine Learning:** Scikit-learn, Logistic Regression, Decision Trees  
-- **Other Tools:** Git, Jupyter Notebook  
+## 💡 My Skills
+- Data preparation, cleaning, and analysis  
+- Dashboard development and reporting  
+- Machine Learning model building  
+- Exploratory Data Analysis (EDA)  
 
 ---
 
-## 📂 Featured Projects  
-
-- ❤️ [Heart Disease Prediction (Machine Learning)](https://github.com/ushant66/Heart-Disease-Prediction)  
-  *Logistic Regression model to predict heart disease probability based on health data.*  
-
-- 📱 [Fake Location Detection (Sensor Fusion)](https://github.com/ushant66/Fake-Location-Detection)  
-  *Mobile computing project to detect fake GPS location using smartphone sensors.*  
-
-- 📊 [Sales Data Analysis (Excel & Python)](https://github.com/ushant66/Sales-Data-Analysis)  
-  *Data cleaning, visualization, and insights generation for business decisions.*  
-
-- 📈 [Power BI Dashboard](https://github.com/ushant66/Power-BI-Dashboard)  
-  *Interactive BI dashboard to track KPIs, trends, and business performance.*  
+## 🛠️ My Tools
+- **Databases**: SQL (MySQL)  
+- **Visualization**: Power BI, Matplotlib, Seaborn  
+- **Programming**: Python (Pandas, NumPy, Scikit-Learn)  
+- **Excel**: Pivot, VLOOKUP, Charts
+- **Power Bi**: plot(vesulation)
 
 ---
 
-## 📊 GitHub Stats  
-![Ushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ushant66&show_icons=true&theme=tokyonight)  
+## 🌐 Connect with Me
+- [LinkedIn](www.linkedin.com/in/ushant-somkuwar-865547285)  
 
 ---
 
-⭐️ From [Ushant Somkuwar](https://github.com/ushant66)
-
+⭐️ From Uahant Somkuwar
