@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Uahant Somkuwar
+# 👋 Hi, I'm Ushant Somkuwar
 
-Hi there! I'm Uahant, an aspiring **Data Scientist | Data Analyst**.  
-I enjoy working with data, building ML models, and creating dashboards using **Python, SQL, Excel, and Power BI**.  
+Hi there! I'm Ushant, an aspiring Data Scientist | Data Analyst.
 
+I like working with data, analyzing datasets, and building ML models. I use Python, SQL, Excel, and Power BI for my projects.
+
+Currently learning more about Data Science and Analytics and looking for opportunities to start my career in this field.
 ---
 
 ## 📚 Projects & Guides
