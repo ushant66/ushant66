@@ -5,7 +5,6 @@ Hi there! I'm Ushant, an aspiring Data Scientist | Data Analyst.
 I like working with data, analyzing datasets, and building ML models. I use Python, SQL, Excel, and Power BI for my projects.
 
 Currently learning more about Data Science and Analytics and looking for opportunities to start my career in this field.
----
 
 ## 📚 Projects & Guides
 In my portfolio, you can find my [projects](https://github.com/ushant66?tab=repositories) and guides on data analytics and machine learning.
@@ -34,4 +33,4 @@ In my portfolio, you can find my [projects](https://github.com/ushant66?tab=repo
 
 ---
 
-⭐️ From Uahant Somkuwar
+⭐️ From Ushant Somkuwar
